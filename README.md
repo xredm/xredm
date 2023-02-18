@@ -4,10 +4,6 @@
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=xredm&show_icons=true)
 
-## 2. Most Used Languages
-
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=xredm&theme=blue-green)
-
 ## 3. Contributors Badge
 
 ![Your Repository's Stats](https://contrib.rocks/image?repo=xredm/Python)
@@ -20,6 +16,3 @@
 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=xredm)
 
-### Repository View Counter - HITS
-
-![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/xredm)
