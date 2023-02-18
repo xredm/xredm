@@ -6,7 +6,7 @@
 
 ## 3. Contributors Badge
 
-![Your Repository's Stats](https://contrib.rocks/image?repo=xredm/Python)
+![Your Repository's Stats](https://contrib.rocks/image?repo=xredm/C)
 
 ## 4. Random Joke Generator
 
