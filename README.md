@@ -6,17 +6,22 @@
 
 ![](https://www.freepnglogos.com/uploads/line-png/blue-lines-png-transparent-35.png)
 
-#### 1. Statzzz 👩‍💻
+#### 💡 42 Stats Card!
+
+[![mredkole's 42 stats](https://badge42.vercel.app/api/v2/clea3uej000060fkzg69ietzf/stats?cursusId=21&coalitionId=313)](https://github.com/JaeSeoKim/badge42)
+![](https://www.freepnglogos.com/uploads/line-png/blue-lines-png-transparent-35.png)
+
+####  Statzzz 👩‍💻
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=xredm&show_icons=true)
 ![](https://www.freepnglogos.com/uploads/line-png/blue-lines-png-transparent-35.png)
 
-### 2. I'm also very funny 😆 
+###  I'm also very funny 😆 
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 ![](https://www.freepnglogos.com/uploads/line-png/blue-lines-png-transparent-35.png)
 
-### 3. Random stuff 😏
+###  Random stuff 😏
 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=xredm)
 ![](https://www.freepnglogos.com/uploads/line-png/blue-lines-png-transparent-35.png)
