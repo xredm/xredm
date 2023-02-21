@@ -6,13 +6,12 @@
 
 ## 2.
 
-![](https://forthebadge.com/images/badges/built-with-love.svg)
+![](https://forthebadge.com/images/badges/built-with-love.svg) ![Profile View Counter](https://komarev.com/ghpvc/?username=xredm)
 
 ## 3. Random Joke Generator
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
-## 5. Profile View Counter
 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=xredm)
 
