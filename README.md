@@ -1,8 +1,10 @@
-## Hi there and welcome to my workspace, hope you like it here 🫶
+# Holaaaaaaa 🥹
 
-#### I'm currently a student of 42 Prague and here you will find some of my works 🔥
+## Welcome to my workspace, hope you like it here 🫶
 
-### 1. GitHub Stats
+### I'm currently a student of 42 Prague and here you will find some of my works 🔥
+
+#### 1. Statzzz 👩‍💻
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=xredm&show_icons=true)
 
