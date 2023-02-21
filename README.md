@@ -1,6 +1,6 @@
 # Holaaaaaaa 🥹 My name is Maria, nice to see you here 🫶
-#### I'm currently a student of 42 Prague and here you will find some of my works 🔥
-#### Hope you like it here 💨
+####      I'm currently a student of 42 Prague and here you will find some of my works 🔥
+####                              Hope you like it here 💨
 #
 #### 1. Statzzz 👩‍💻
 
