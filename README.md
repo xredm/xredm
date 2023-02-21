@@ -1,4 +1,5 @@
 # Holaaaaaaa 🥹 My name is Maria, nice to see you here 🫶
+![](https://www.freepnglogos.com/uploads/line-png/blue-lines-png-transparent-35.png)
 ###  **I'm currently a student of 42 Prague and here you will find some of my works** 🔥
 ![](https://www.freepnglogos.com/uploads/line-png/blue-lines-png-transparent-35.png)
 ####                              Hope you like it here 💨
